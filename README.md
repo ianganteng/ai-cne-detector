@@ -5,7 +5,7 @@ colorFrom: yellow
 colorTo: purple
 sdk: gradio
 sdk_version: "5.47.2"
-app_file: AiCNE_Deployment.ipynb
+app_file: aicne_deployment.py
 pinned: true
 ---
 

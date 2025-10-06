@@ -1,8 +1,8 @@
 ---
 title: AiCNE Detector
 emoji: 💆‍♂️
-colorFrom: orange
-colorTo: blue
+colorFrom: yellow
+colorTo: purple
 sdk: gradio
 sdk_version: "5.47.2"
 app_file: AiCNE_Deployment.ipynb

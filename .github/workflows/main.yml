@@ -17,6 +17,6 @@ jobs:
       # Step 2: Push to Hugging Face Space
       - name: Push to hub
         env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_SYNC: ${{ secrets.HF_SYNC }}
         run: |
-          git push -f https://ianhee:$HF_TOKEN@huggingface.co/spaces/ianhee/ai-cne-detector main
+          git push -f https://ianhee:$HF_SYNC@huggingface.co/spaces/ianhee/ai-cne-detector main

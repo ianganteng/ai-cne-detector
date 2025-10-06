@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1Wt1RLh7l7PwYfzFFVXnXcbhxFd_NV-u-
 """
 
-pip install gradio
 
 #Latest Version
 import gradio as gr
